@@ -1,1 +1,1 @@
-Gostaria de expressar meu sincero agradecimento ao professor Gabriel Azevedo pela oportunidade de participar desta atividade prática. Este exercício não apenas me permitiu consolidar e aplicar meus conhecimentos em CSS, mas também me desafiou a explorar novas técnicas e conceitos de design responsivo.
+
